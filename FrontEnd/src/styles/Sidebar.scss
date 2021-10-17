@@ -1,0 +1,16 @@
+// Increase sidebar thumbnail size
+.pro-sidebar-content {
+    svg {
+      width: 1.5em;
+      height:1.5em;
+    }
+}
+
+// Overwrite _sidebar.scss opacity
+.pro-sidebar {
+    > .pro-sidebar-inner {
+        > img.sidebar-bg {
+            opacity: 0.5
+        }
+    }
+}

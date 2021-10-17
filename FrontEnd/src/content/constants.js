@@ -1,0 +1,15 @@
+module.exports = {
+    BASE_URL: "https://www.metoc.navy.mil/fwcsd/products/",
+    SURFACE: "surface.gif",
+    SOCALOP: "socalfcstgraphic.gif",
+    DIEGOGARCIAOP: "dgoparea.txt",
+    ARABIANSEAS: "as.txt",
+    ARABIANGULF: "ag.txt",
+    REDSEA: "as.txt",
+    TITLE_SURFACE: "Surface Analysis",
+    TITLE_SOCAL: "Southern California Report",
+    TITLE_DGO: "Diego Garcia Report",
+    TITLE_AS: "Arabian Sea Report",
+    TITLE_AG: "Arabian Gulf Report",
+    TITLE_RS: "Red Sea Report",
+}
